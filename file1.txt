@@ -1,5 +1,1 @@
 This is file 1
-
-commit 1 from laptop
-commit 2 from PC
-commit 4 from PC
